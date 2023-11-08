@@ -2,7 +2,7 @@
 
 # Hi there, I'm Azamat 👋
 
-> A software engineer building awesome web back/front stuff using Node.js, Express, Go, Gin And React.
+> A software engineer building awesome web Back/Front stuff using Node.js, Next.js, Golang and Python.
 <br/><br/><br/>
 
 <p align="end">
